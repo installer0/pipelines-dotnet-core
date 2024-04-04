@@ -1,4 +1,4 @@
-https://dev.azure.com/IhorTrots/Test%20pipeline/_apis/build/status%2Finstaller0.pipelines-dotnet-core%20GitHub?branchName=master)](https://dev.azure.com/IhorTrots/Test%20pipeline/_build/latest?definitionId=20&branchName=master
+[![Build Status](https://dev.azure.com/IhorTrots/Test%20pipeline/_apis/build/status%2FTest%20pipeline%20AzureGit?branchName=master)](https://dev.azure.com/IhorTrots/Test%20pipeline/_build/latest?definitionId=21&branchName=master)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
